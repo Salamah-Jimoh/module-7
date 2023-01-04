@@ -17,7 +17,9 @@ body{
 }
 .menu h3{
     margin:3rem 2rem;
-   line-height: 1.8rem;
+   line-height: 2rem;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   letter-spacing: 0rem;
 }
 .menu p{
     margin: 3rem 1rem;
